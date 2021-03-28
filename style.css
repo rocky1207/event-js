@@ -1,0 +1,33 @@
+body {
+	background: rgba(168,168,168,0.3);
+}
+
+form {
+	margin: 30px 0 0 200px;
+}
+
+select {
+	border-radius: 10px;
+	border: 1px solid rgba(44,104,158,1.00);
+	color: rgba(44,104,158,1.00);
+	font-weight: bold;
+	fontFamily: "arial";	
+}
+
+div#images {
+	width: 700px;
+	height: 450px;
+	border: 1px solid rgba(43,42,42,1.00);
+	padding: 2px;
+	background: rgba(200,200,200,1.00);
+	-moz-box-shadow: 10px 15px 20px 5px gray;
+	-webkit-box-shadow: 10px 15px 20px 5px gray;
+	box-shadow: 10px 15px 20px 5px gray;
+	margin: 100px auto 40px;
+}
+
+div#images img {
+	width: 700px;
+	height: 450px;
+	text-align: center;
+}
